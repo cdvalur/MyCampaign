@@ -1,0 +1,25 @@
+.listItem {
+    margin: 5px;
+    display: block;
+    cursor: pointer;
+    border-bottom: 1px solid #ccc;
+}
+.listActions {
+    float: right;
+    margin: 10px;
+}
+.nameBlock {
+    display: inline-block;
+}
+.itemNum {
+    float: left;
+    margin: 10px;
+}
+.itemName {
+    float: right;
+    margin: 10px;
+}
+.createdTime {
+    font-size: 14px;
+    color: #ccc;
+}

@@ -1,0 +1,24 @@
+
+.campaignListContainer{
+    display: block;
+    width: 90%;
+    padding: 20px;
+    height: 90%;
+    position: relative;
+    background: #fff;
+}
+.createBtn {
+    background-color: blue;
+    color: white;
+    opacity: 0.5;
+    margin: 10px;
+}
+.listHeader {
+    margin: 10px;
+    float: left;
+}
+.headerBlock {
+    display: block;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
